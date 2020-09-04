@@ -27,6 +27,7 @@ namespace Sample.Server
 
             app.UseEndpoints(endpoints =>
             {
+                // Services are scoped.
                 endpoints.MapGrpcService<GreeterService>();
 
                 endpoints.MapGet("/", async context =>
