@@ -32,3 +32,8 @@ Resources for my gRPC for WCF talk
     - https://martinbjorkstrom.com/posts/2020-07-08-grpc-reflection-in-net
 - Performance best practices with gRPC:
     - https://docs.microsoft.com/en-us/aspnet/core/grpc/performance
+- Code samples used the presentation:
+    - https://github.com/mholo65/grpc-for-wcf-talk
+- Host gRPC service in IIS or as an App Service? (GitHub issue)
+    - https://github.com/dotnet/aspnetcore/issues/9020
+
